@@ -1,2 +1,3 @@
-# Siwan-Engineering-college-and-management
-Siwan Engineering college and management
+Bihar Engineering University (BEU),Patna 
+Siwan-college-of-Engineering-and-management
+
